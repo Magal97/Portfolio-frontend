@@ -27,7 +27,7 @@ const AboutMe: React.FC = () => {
                         </LeftSide>
                     <RightSide>
                             <p>
-                            Hi, my name is Matheus, I have 18 years old and I'm an enthusiast of Softwares development. 
+                            Hi, my name is Matheus, I'm 18 years old and I'm an enthusiast of Softwares development. 
                             I have developed this passion for programming when I first got on High School that was integrated to Technical. 
                             Now I'm on college doing analysis and systems development and working hard to beat my goals as a professional. 
                             </p>
