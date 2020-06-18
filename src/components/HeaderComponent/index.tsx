@@ -33,9 +33,8 @@ const HeaderComponent = () => {
             setMenuBar(false);
         }
     };
-    //1378
+
     return (
-        
         <Header>
             {transitions.map(({item, key, props}) => (
                 <MenuSectionOn key={key} style={props} ishandled={menuBar} >
