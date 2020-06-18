@@ -21,7 +21,7 @@ export const Header = styled.header`
     align-items:center;
     justify-content: center;
     z-index: 1;
-    /*box-shadow: 0 0.5rem 2rem rgba(42,42,50,.3); */
+
     @media(max-width: 768px){
         height: 100px;
     }
